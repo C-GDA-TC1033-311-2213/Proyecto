@@ -15,4 +15,4 @@ Ej.- cd ../../
 
 ```
 
-- 00-HelloWorld (```cd assignments/Proyecto```)
+- Proyecto (```cd assignments/Proyecto```)
